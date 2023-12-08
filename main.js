@@ -1,0 +1,1 @@
+conslo.loges("Hello word")
